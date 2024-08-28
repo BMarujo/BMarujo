@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 ![Marujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BMarujo&show_icons=true&theme=radical)
 
+![Marujo](https://github-readme-stats.vercel.app/api/top-langs/?username=BMarujo&layout=compact&theme=merko)
+

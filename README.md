@@ -19,11 +19,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BMarujo&show_icons=true&locale=en&theme=radical" alt="BMarujo's GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BMarujo&theme=merko" alt="BMarujo's Github Streaks" /></p>
-
-![Marujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BMarujo&show_icons=true&theme=radical)
-
-![Marujo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMarujo&layout=compact&theme=merko)
-
-![Marujo's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BMarujo&theme=merko)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BMarujo&theme=radical" alt="BMarujo's Github Streaks" /></p>
 

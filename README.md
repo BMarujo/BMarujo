@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BMarujo&show_icons=true&locale=en&layout=compact" alt="BMarujo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BMarujo&show_icons=true&locale=en&layout=compact&theme=merko" alt="BMarujo's Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BMarujo&show_icons=true&locale=en" alt="BMarujo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BMarujo&show_icons=true&locale=en&theme=radical" alt="BMarujo's GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BMarujo&" alt="BMarujo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BMarujo&theme=merko" alt="BMarujo's Github Streaks" /></p>
 
 ![Marujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BMarujo&show_icons=true&theme=radical)
 
-![Marujo](https://github-readme-stats.vercel.app/api/top-langs/?username=BMarujo&layout=compact&theme=merko)
+![Marujo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMarujo&layout=compact&theme=merko)
+
+![Marujo's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BMarujo&theme=merko)
 
